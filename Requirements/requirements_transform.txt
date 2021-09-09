@@ -1,0 +1,4 @@
+MODULES TO BE INSTALLED: 
+
+> opencv-python
+> numpy

@@ -1,0 +1,10 @@
+MODULES TO BE INSTALLED: 
+
+> opencv-python
+> scikit-learning
+> numpy
+> imutils
+> argparse
+
+
+> transform (the code present in the same directory) 

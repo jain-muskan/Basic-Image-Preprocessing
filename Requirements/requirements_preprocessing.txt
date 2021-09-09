@@ -1,0 +1,3 @@
+MODULES TO BE INSTALLED: 
+
+ > opencv-python
